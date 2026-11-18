@@ -1,3 +1,4 @@
+
 # task2
 
 A new Flutter project.
@@ -18,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img width="500" height="1000" alt="Screenshot_20261118_234148" src="https://github.com/user-attachments/assets/e52aacb1-4428-4b6c-9f24-b5fc0d562f75" />
+<img width="300" height="600" alt="Screenshot_20261118_234148" src="https://github.com/user-attachments/assets/e52aacb1-4428-4b6c-9f24-b5fc0d562f75" />
+<img width="300" height="600" alt="Screenshot_20261118_234832" src="https://github.com/user-attachments/assets/bdd4c580-d1f1-4a11-99b0-f8fadf13fcec" />
 
-<img width="500" height="1000" alt="Screenshot_20261118_234131" src="https://github.com/user-attachments/assets/fa180c41-63b6-4d83-829b-796ee7078682" />
+<img width="300" height="600" alt="Screenshot_20261118_234131" src="https://github.com/user-attachments/assets/fa180c41-63b6-4d83-829b-796ee7078682" />
